@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="Project1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="53" Y="4"/>
+        <UsageCount Value="66"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="load.texture.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="8"/>
+        <FoldState Value=" T3R0A111 T1i203h"/>
+        <UsageCount Value="66"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="glut64.dll"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="22"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="sdl.dll"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="22"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\f\lazgl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LazGL"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <CursorPos X="29" Y="9"/>
+        <UsageCount Value="22"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\PABCWork.NET\Project1\game dem2.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="560"/>
+        <CursorPos X="31" Y="565"/>
+        <UsageCount Value="32"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="freeglut.dll"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="27"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="Tao.FreeGlut.dll"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="27"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="Tao.OpenGl.dll"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="16"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit8>
+    </Units>
+    <JumpHistory Count="1">
+      <Position1>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="4" Column="54"/>
+      </Position1>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="project1.lpr"/>
+        <Line Value="10"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="43">
+      <Unit0>
+        <Filename Value="Project1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LazGL"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="123"/>
+        <CursorPos X="3" Y="154"/>
+        <UsageCount Value="69"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="sdl.dll"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="25"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="glut32.dll"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="SDL_image.dll"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="load.texture.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="8"/>
+        <FoldState Value=" T3R0A111 T1i203h"/>
+        <UsageCount Value="67"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="glut64.dll"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="23"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\f\lazgl.pas"/>
+        <UnitName Value="LazGL"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <CursorPos X="29" Y="9"/>
+        <UsageCount Value="23"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\PABCWork.NET\Project1\game dem2.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="560"/>
+        <CursorPos X="31" Y="565"/>
+        <UsageCount Value="32"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="freeglut.dll"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="27"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="Tao.FreeGlut.dll"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="27"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="Tao.OpenGl.dll"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="16"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="Project1.lpi"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="74"/>
+        <CursorPos X="10" Y="73"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="XML"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\Новая папка (4)\game.dem3.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="SDL2.dll"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="SDL2_image.dll"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\Windows\SysWOW64\SDL.dll"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="SDL2.image.dll"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="рисунки"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="рисунки\imgonline-com-ua-Transparent-backgr-pGeVvygVkNjz.png"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="рисунки\k.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="рисунки\kub.jpg"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="рисунки\prigok.p.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="рисунки\prigok.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="рисунки\shag1.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="рисунки\shag1p.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="рисунки\shag2.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="рисунки\shag2p.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="рисунки\stoy.p.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="рисунки\stoy2.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="рисунки\trubaь.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="рисунки\trubaь2.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="рисунки\volna.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="рисунки\vopros1.gpg.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="рисунки\vrag.grib.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="рисунки\vrag.grib2.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="рисунки\vsmah1.bmp"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="рисунки\vsmah1.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="рисунки\vsmah2.bmp"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit37>
+      <Unit38>
+        <Filename Value="рисунки\vsmah2.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="рисунки\vsmah3.bmp"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit39>
+      <Unit40>
+        <Filename Value="рисунки\vsmah3.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit40>
+      <Unit41>
+        <Filename Value="рисунки\Новый точечный рисунок.bmp"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit41>
+      <Unit42>
+        <Filename Value="рисунки\heal.png"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit42>
+    </Units>
+    <JumpHistory Count="25" HistoryIndex="24">
+      <Position1>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="767" Column="26" TopLine="19"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="642" TopLine="632"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="771" Column="37" TopLine="750"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="702" Column="44" TopLine="681"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="771" Column="37" TopLine="750"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="762" Column="66" TopLine="750"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="4" Column="32"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="3" Column="65"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="6" Column="33"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="11" Column="61"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="645" Column="21" TopLine="610"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="647" Column="19" TopLine="610"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="666" Column="33" TopLine="640"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="676" Column="43" TopLine="640"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="34" Column="58" TopLine="19"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="646" Column="43" TopLine="622"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="675" Column="8" TopLine="640"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="600" Column="36" TopLine="593"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="67" Column="5" TopLine="46"/>
+      </Position19>
+      <Position20>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="70" Column="11" TopLine="48"/>
+      </Position20>
+      <Position21>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="24" Column="45" TopLine="10"/>
+      </Position21>
+      <Position22>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="561" Column="10" TopLine="547"/>
+      </Position22>
+      <Position23>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="102" Column="5" TopLine="61"/>
+      </Position23>
+      <Position24>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="66" Column="19" TopLine="63"/>
+      </Position24>
+      <Position25>
+        <Filename Value="Project1.pas"/>
+        <Caret Line="99" Column="6" TopLine="77"/>
+      </Position25>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="project1.lpr"/>
+        <Line Value="10"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
