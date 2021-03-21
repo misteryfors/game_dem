@@ -1,0 +1,46 @@
+20 6
+gggggggggggggggggggg
+aaaaaaaaaaaaaaaaaaaa
+gggggggggggggggggggg
+aaaaaaaaaaaaaaaaaaaa
+gggggggggggggggggggg
+gggggggggggggggggggg
+18 5
+aagaaaaagaaaaagaaa
+agggaaagggaaagggaa
+ggaggaggaggaggagga
+gaaagggaaagggaaagg
+aaaaagaaaaagaaaaag
+22 5
+gaaaagaaaagaaaagaaaagg
+gaaagaaaagaaaagaaaagag
+gaagaaaagaaaagaaaagaag
+gagaaaagaaaagaaaagaaag
+ggaaaagaaaagaaaagaaaag
+20 5
+aaaaaaaaaaaaaaaaaaaa
+gggggggggggggggggggg
+aaaaaaaaaaaaaaaaaaaa
+gggggggggggggggggggg
+aaaaaaaaaaaaaaaaaaaa
+20 20
+gaaaaaaaaaaaaaaaaaaa
+ggaaaaaaaaaaaaaaaaaa
+gggaaaaaaaaaaaaaaaaa
+ggggaaaaaaaaaaaaaaaa
+gggggaaaaaaaaaaaaaaa
+ggggggaaaaaaaaaaaaaa
+gggggggaaaaaaaaaaaaa
+ggggggggaaaaaaaaaaaa
+gggggggggaaaaaaaaaaa
+ggggggggggaaaaaaaaaa
+gggggggggggaaaaaaaaa
+ggggggggggggaaaaaaaa
+gggggggggggggaaaaaaa
+ggggggggggggggaaaaaa
+gggggggggggggggaaaaa
+ggggggggggggggggaaaa
+gggggggggggggggggaaa
+ggggggggggggggggggaa
+ggggggggggggggggggga
+gggggggggggggggggggg
